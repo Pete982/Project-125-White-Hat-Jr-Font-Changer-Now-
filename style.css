@@ -1,0 +1,67 @@
+
+body{
+
+    background-color: wheat;
+}
+
+
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+}
+.note{
+    color: blue;
+}
+
+
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+#Shorty{
+
+   width: 10px;
+
+   height: 10px;
+
+   color: white;
+
+}
+
+#canvas{
+
+border: 50px solid rgb(78, 75, 75);
+
+box-shadow: 3px 3px 3px rgb(20, 20, 20);
+
+padding: 10px;
+ 
+margin: 10px;
+
+}
+
+.copy_right_footer{
+
+    font-family: fantasy;
+
+    font-stretch: 10px;
+
+    font-size: 23px;
+
+    font-weight: 100;
+
+    color: orange;
+}
+
